@@ -1,0 +1,19 @@
+{
+  "name": "todo-cartoes-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getProducts.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "micro": "^9.3.4",
+    "micro-cors": "^0.1.1",
+    "micro-fork": "^3.0.0",
+    "now-micro": "^0.4.0",
+    "query-string": "^6.10.1"
+  }
+}
