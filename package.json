@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "micro": "^9.3.4",
     "micro-cors": "^0.1.1",
     "micro-fork": "^3.0.0",
